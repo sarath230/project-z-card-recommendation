@@ -1,0 +1,7 @@
+amount,merchant,category,card_name,cashback_percent,cashback_value
+1200,Zudio,fashion,Flipkart Axis,5,60.00
+250,Big Bazaar,groceries,Amazon Pay ICICI,2,5.00
+500,Swiggy,food delivery,HDFC Millennia,5,25.00
+750,Amazon,online,Amazon Pay ICICI,5,37.50
+1000,Flipkart,fashion,Flipkart Axis,5,50.00
+300,NoRulesStore,travel            # category “travel” isn’t in card_rules.json,Flipkart Axis,1,3.00

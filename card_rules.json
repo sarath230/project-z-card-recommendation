@@ -1,0 +1,18 @@
+{
+    "Flipkart Axis": {
+      "fashion": 5,
+      "groceries": 1,
+      "default": 1
+    },
+    "HDFC Millennia": {
+      "food delivery": 5,
+      "online": 2,
+      "default": 1
+    },
+    "Amazon Pay ICICI": {
+      "online": 5,
+      "groceries": 2,
+      "default": 1
+    }
+  }
+  

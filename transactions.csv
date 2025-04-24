@@ -1,0 +1,9 @@
+amount,merchant,category
+1200,Zudio,fashion
+250,Big Bazaar,groceries
+500,Swiggy,food delivery
+750,Amazon,online
+1000,Flipkart,fashion
+-50,UnknownStore,groceries         # negative amount
+300,NoRulesStore,travel            # category “travel” isn’t in card_rules.json
+400,,online                        # missing merchant
